@@ -27,10 +27,10 @@
 Here are some of my top projects. You can find more in my [All Python Programs Repository](https://github.com/dhanrajk046/All-python-programs).
 
 ### 🐍 Python Projects
-- **[Ultra Smart Chatbot](https://github.com/dhanrajk046/All-python-programs/tree/main/Advanced/19.Ultra%20Smart%20Chatbot.py)** – NLP chatbot using NLTK & WordNet
-- **[Front Desk Software](https://github.com/dhanrajk046/All-python-programs/tree/main/Advanced/17.Front%20Desk%20Software.py)** – Hotel management CRUD system
-- **[Basic Web Scraper](https://github.com/dhanrajk046/All-python-programs/tree/main/Intermediate/13.Basic%20Web%20Scraper.py)** – Web scraping with BeautifulSoup
-- **[Crystal Runner Game](https://github.com/dhanrajk046/All-python-programs/tree/main/Advanced/16.Crystal%20Runner%20Game.py)** – Fun Python game built with Pygame
+- **[Ultra Smart Chatbot](https://github.com/dhanrajk046/All-python-programs/blob/main/21.ultra%20smart%20chatbot.py)** – NLP chatbot using NLTK & WordNet
+- **[Front Desk Software](https://github.com/dhanrajk046/All-python-programs/blob/main/18.Front%20desk%20software.py)** – Hotel management CRUD system
+- **[Basic Web Scraper](https://github.com/dhanrajk046/All-python-programs/blob/main/10.Basic%20Web%20Scraper.py)** – Web scraping with BeautifulSoup
+- **[Crystal Runner Game](https://github.com/dhanrajk046/All-python-programs/blob/main/12.Crystal%20Runner%20Game.py)** – Fun Python game built with Pygame
 
 ---
 
